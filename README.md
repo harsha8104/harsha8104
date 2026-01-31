@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated B.Tech student in Arti cial Intelligence with hands-on experience in data analysis, machine
+Motivated B.Tech student in AI and Cloud Computing & Big Data with hands-on experience in data analysis, machine
 learning, and cloud computing. Proven track record through multiple internships at Elevate Labs,
 Coreline Solutions, Innoknowvex, and TwiLearn Inc. Skilled in transforming raw data into actionable
 insights using Python, SQL, Power BI, and AWS. Strong foundation in big data technologies and
